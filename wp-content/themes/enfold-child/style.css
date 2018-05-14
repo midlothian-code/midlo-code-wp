@@ -9,4 +9,12 @@ Template: enfold
 
 
 
-/*Add your own styles here:*/
+/* Typography */
+
+.av-main-nav > li > a {
+  font-size: 16px;
+}
+
+.sub_menu {
+  font-size: 14px;
+}
