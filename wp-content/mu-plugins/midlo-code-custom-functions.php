@@ -57,7 +57,7 @@ function resources_post_type_init() {
     'has_archive'           => true,
     'hierarchical'          => false,
     'menu_position'         => null,
-    'menu_icon'             => 'dashicons-awards',
+    'menu_icon'             => 'dashicons-admin-links',
     'supports'              => array( 'title', 'editor', 'author', 'thumbnail', 'excerpt', 'custom-fields', 'revisions' ),
     'taxonomies'            => array( 'resource_type' ),
     'can_export'            => true,
