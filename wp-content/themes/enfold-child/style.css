@@ -18,3 +18,24 @@ Template: enfold
 .sub_menu {
   font-size: 14px;
 }
+
+#socket {
+  font-size: 14px;
+}
+
+/* The Events Calendar Overrides */
+
+.tribe-events-list .tribe-events-loop .tribe-event-featured .tribe-events-event-meta,
+.tribe-events-list .tribe-events-loop .tribe-event-featured .tribe-events-content {
+  color: #000;
+  color: rgba(0,0,0,0.875);
+}
+
+.tribe-events-list .tribe-events-loop .tribe-event-featured a {
+  color: #f47b48;
+}
+
+.tribe-events-list .tribe-events-loop .tribe-event-featured a:hover, 
+.tribe-events-list .tribe-events-loop .tribe-event-featured a:focus {
+  color: #ca450c;
+}
